@@ -16,10 +16,16 @@ To gain hands-on experience with VPNs, understand how they protect privacy, and 
 6. Disconnected VPN and compared browsing speed & IP.
 7. Researched VPN features, encryption, and limitations.
 
-## 📸 Screenshots
-- IP address before VPN connection
-- VPN client showing connected state
-- IP address after VPN connection
+##  Screenshots
+
+![IP Before VPN](screenshots/1-before-vpn.png)  
+*Showed my original IP and location before connecting to VPN.*
+
+![VPN Connected](screenshots/2-vpn-connected.png)  
+*ProtonVPN desktop client showing actively connected status.*
+
+![IP After VPN](screenshots/3-after-vpn.png)  
+*New IP and location after VPN connection—clearly changed.*
 
 ## ⚠️ Findings
 - IP address successfully changed, proving VPN tunnel is active.
